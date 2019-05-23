@@ -1,0 +1,23 @@
+{
+  "name": "comp-2019",
+  "version": "1.0.0",
+  "description": "This is my first page",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/200382214/COMP-2019.git"
+  },
+  "author": "Dhvanit Merchant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/200382214/COMP-2019/issues"
+  },
+  "homepage": "https://github.com/200382214/COMP-2019#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
