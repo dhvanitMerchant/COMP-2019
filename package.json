@@ -19,7 +19,7 @@
   "homepage": "https://github.com/200382214/COMP-2019#readme",
   "dependencies": {
     "express": "^4.17.0",
-    "pug": "^2.0.3",
+    "pug": "^3.0.1",
     "reload": "^3.0.1"
   }
 }
